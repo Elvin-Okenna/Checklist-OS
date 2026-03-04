@@ -21,16 +21,36 @@ Cover:
 - Include security considerations - encryption, secure data storage etc.
 - Note relevant lawaws
 
+​​Business Context	2 
+​Client Brief Review	2  
+​Stakeholders	2 
+​Constraints	3 
+​Empathy Mapping	3 
+​SWOT Analysis	4 
+​User Stories & Acceptance	5 
+​Functional & Non-Functional Requirements	6-7 
+​Decomposition of Requirements	8 
+​KPI’s & User Acceptance	9 
+​Proposed Solution	10 
+​Description of the Proposed Solution	10 
+​Justification	7 
+​Meet the Client and User Needs	7 
+​Risks, Mitigation & Wider Issues	8 
+​Regulatory guidelines and legal requirements	9 
+​Appendix	10​ 
+
 
 ### **Business Context**
 - - [ ] Client Brief Review
   - [ ] clients goals and problems
 - - [ ] Stakeholders
+
 - - [ ] Security Compliance
   - [ ] considering stakeholders responsible
 - - [ ] Constraints
   - [ ] time, budget, deadlines, resources, security and compliance
 - - [ ] Empathy Mapping
+
   - [ ] consider accessibiliy and security compliance
 - - [ ] SWOT Analysis
   - [ ] strengths, weakness, opportunities, threats - data breaches , security and such how would effect etc
